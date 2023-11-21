@@ -1,0 +1,7 @@
+.wrapper{
+    display: flex;
+    margin: 10px;
+}
+#result{
+    padding: 10px;
+}
